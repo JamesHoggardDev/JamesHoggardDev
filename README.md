@@ -6,6 +6,10 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 - AWS and Cloud services
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHoggardDev&layout=compact)](https://github.com/JamesHoggardDev)
+
+<br/>
+
 ### My Technical Skills include:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
@@ -39,12 +43,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)
-
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHoggardDev&show_icons=true&theme=highcontrast)](https://github.com/JamesHoggardDev)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
