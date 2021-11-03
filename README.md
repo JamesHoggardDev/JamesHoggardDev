@@ -4,6 +4,7 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 
 ### 🌱 I’m currently learning about 
 - AWS and Cloud services
+- TypeScript
 <br/>
 
 ### My Technical Skills include:
@@ -18,6 +19,7 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
