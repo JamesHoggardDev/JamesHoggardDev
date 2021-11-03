@@ -1,4 +1,5 @@
-### Hi there, I'm James &#128075;&#127998;
+### Hi there, I'm James Hoggard &#128075;&#127998;
+a Software Engineer, DPT from Maryland
 
 <!--
 **JamesHoggardDev/JamesHoggardDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
