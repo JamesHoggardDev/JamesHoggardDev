@@ -30,6 +30,8 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
+<br/>
+
 
 
 <!--
