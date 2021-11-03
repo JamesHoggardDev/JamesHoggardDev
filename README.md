@@ -1,8 +1,10 @@
 ### Hi, I'm James &#128075;&#127998;
 a Software Engineer, educator, and DPT from Maryland &#128214;
+<br />
 
 ### 🌱 I’m currently learning about 
 - AWS and Cloud services
+<br/>
 
 ### Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
