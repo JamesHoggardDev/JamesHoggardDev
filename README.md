@@ -1,6 +1,7 @@
 ### Hi there, I'm James Hoggard &#128075;&#127998;
-a Software Engineer, DPT from Maryland
+a Software Engineer, DPT, and teacher from Maryland
 
+- 🌱 I’m currently learning about AWS and Cloud services.
 <!--
 **JamesHoggardDev/JamesHoggardDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
