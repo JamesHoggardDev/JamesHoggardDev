@@ -6,7 +6,7 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 - AWS and Cloud services
 <br/>
 
-### Technical Skills
+### My Technical Skills include:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
