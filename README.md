@@ -7,8 +7,9 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 <br/>
 
 ### 🔭 I’m currently working on
-- [My Portfolio](https://www.jamescode.dev/)
 - A banking app
+- [My Portfolio](https://www.jamescode.dev/)
+
 
 
 <hr>
