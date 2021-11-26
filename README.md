@@ -16,6 +16,7 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHoggardDev&layout=compact)](https://github.com/JamesHoggardDev) -->
 
+
 <!-- 
 ## <br />
  -->
