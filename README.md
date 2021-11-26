@@ -4,10 +4,10 @@ a Software Engineer, educator, and DPT from Maryland &#128214;
 
 ### 🌱 I’m currently learning about 
 - AWS and Cloud services
-<br/>
 
 ### 🔭 I’m currently working on
 - A banking app
+- Algorithms and Data Structures
 - [My Portfolio](https://www.jamescode.dev/)
 
 
