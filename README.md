@@ -2,12 +2,11 @@
 a Software Engineer, educator, and DPT from Maryland &#128214;
 <br />
 
-### 🌱 I’m currently learning about 
-- AWS and Cloud services
+<!-- ### 🌱 I’m currently learning about 
+- AWS and Cloud services -->
 
 ### 🔭 I’m currently working on
-- A banking app
-- Algorithms and Data Structures
+- Code challenges
 - [My Portfolio](https://www.jamescode.dev/)
 
 
