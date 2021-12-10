@@ -7,6 +7,8 @@
 - Code challenges
 - [My Portfolio](https://www.jamescode.dev/)
 - Becoming AWS Certified
+### Fun fact: 
+- Though I am still an entry level engineer I have found a niche in debugging.
 
 
 
@@ -51,7 +53,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Though I am still an entry level engineer I have found a niche in debugging.
 -->
 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHoggardDev&show_icons=true&theme=highcontrast)](https://github.com/JamesHoggardDev)
