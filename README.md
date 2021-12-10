@@ -1,5 +1,9 @@
 ### Hi, I'm James &#128075;&#127998;
 <!-- a Software Engineer, educator, and DPT from Maryland &#128214; -->
+
+### Fun fact: 
+- Though I am still an entry level engineer I have found a niche in debugging.
+
 ### 🌱 I’m currently learning about 
 - E-commerce services
 
@@ -7,8 +11,6 @@
 - Code challenges
 - [My Portfolio](https://www.jamescode.dev/)
 - Becoming AWS Certified
-### Fun fact: 
-- Though I am still an entry level engineer I have found a niche in debugging.
 
 
 
