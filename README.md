@@ -1,9 +1,7 @@
 ### Hi, I'm James &#128075;&#127998;
-a Software Engineer, educator, and DPT from Maryland &#128214;
-<br />
-
-<!-- ### 🌱 I’m currently learning about 
-- AWS and Cloud services -->
+<!-- a Software Engineer, educator, and DPT from Maryland &#128214; -->
+### 🌱 I’m currently learning about 
+- E-commerce services
 
 ### 🔭 I’m currently working on
 - Code challenges
