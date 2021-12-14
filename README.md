@@ -7,11 +7,11 @@
 ### 🌱 I’m currently learning about 
 - E-commerce services
 - Data Management
-- Other languages
+- Other languages and frameworks
 
 ### 🔭 I’m currently working on
 - Code challenges
-- Imrpoving my code performance
+- Improving my code performance
 - [My Portfolio](https://www.jamescode.dev/)
 - Becoming AWS Certified
 
