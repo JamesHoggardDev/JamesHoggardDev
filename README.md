@@ -11,7 +11,6 @@
 
 ### 🔭 I’m currently working on
 - Code challenges
-- Improving my code performance
 - [My Portfolio](https://www.jamescode.dev/)
 - Becoming AWS Certified
 
