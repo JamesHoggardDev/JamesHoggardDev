@@ -12,7 +12,7 @@
 ### 🔭 I’m currently working on
 - Code challenges
 - [My Portfolio](https://www.jamescode.dev/)
-- Becoming AWS Certified
+- Improving optimization
 
 
 
