@@ -1,28 +1,20 @@
 ### Hi, I'm James &#128075;&#127998;
-<!-- a Software Engineer, educator, and DPT from Maryland &#128214; -->
-
-
 ### 🌱 I’m currently learning about 
-- E-commerce services
+- JavaScript Sets
+- Web 3.0 
+- AWS and Cloud services
 - Data Management
 - Other languages and frameworks
 
 ### 🔭 I’m currently working on
-- Code challenges
+- Data Structures and Algorithms
+- Code challenges and new apps
 - [My Portfolio](https://www.jamescode.dev/)
-- Improving optimization
-
-
-
 <hr>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHoggardDev&layout=compact)](https://github.com/JamesHoggardDev) -->
-
 
 <!-- 
 ## <br />
  -->
-
 ### My Technical Skills include:
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,8 +33,6 @@
 
 ## <br />
 
-
-
 <!--
 **JamesHoggardDev/JamesHoggardDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,20 +45,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Though I am still an entry level engineer I have found a niche in debugging.
+- ⚡ Fun fact:
 -->
 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHoggardDev&show_icons=true&theme=highcontrast)](https://github.com/JamesHoggardDev)
 
 ## How to get in touch 📬
 [![Linkedin Badge](https://img.shields.io/badge/-James_Hoggard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-hoggard/)](https://www.linkedin.com/in/james-hoggard/)
-<!-- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue) -->
-![](https://komarev.com/ghpvc/?username=JamesHoggardDev)
 
-
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)
 
 
                 
