@@ -1,16 +1,25 @@
 ### Hi, I'm James &#128075;&#127998;
+a software developer, educator, student and DPT &#128214;
+<hr />
+
 ### 🌱 I’m currently learning about 
-- JavaScript Sets
-- Web 3.0 
 - AWS and Cloud services
-- Data Management
-- Other languages and frameworks
+- Web 3.0 
+- Data/Case Management
+<hr />
+
+- 👯 I’m looking to collaborate on ...
+- Expansion of skilled therapy services
+<hr />
 
 ### 🔭 I’m currently working on
 - Data Structures and Algorithms
-- Code challenges and new apps
+- Becoming AWS Certified
+- Therapist teaching tools
+- Code challenges
+- Ways to secure patient/client information
 - [My Portfolio](https://www.jamescode.dev/)
-<hr>
+<hr />
 
 <!-- 
 ## <br />
