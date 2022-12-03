@@ -5,8 +5,7 @@ software developer, DPT, student, and educator &#128214;
 ### 🌱 I’m currently learning about 
 - AWS and Cloud services
 - Data Management
-- Debugging 
-- Ways to secure patient/client information
+- Ways to secure information
 - Teaching tools
 <hr />
 
