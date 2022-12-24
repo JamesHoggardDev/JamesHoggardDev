@@ -1,5 +1,5 @@
 ### Hi, I'm James &#128075;&#127998;
-software developer, DPT, student, and educator &#128214;
+software engineer, DPT, student, and educator &#128214;
 <hr />
 
 ### 🌱 I’m currently learning about 
@@ -12,7 +12,6 @@ software developer, DPT, student, and educator &#128214;
 ### 🔭 I’m currently working on
 - Data Structures and Algorithms
 - Becoming AWS Certified
-- Code challenges
 - [My Portfolio](https://www.jamescode.dev/)
 <hr />
 
