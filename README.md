@@ -10,9 +10,7 @@ software engineer, DPT, student, and educator &#128214;
 <hr />
 
 ### 🔭 I’m currently working on
-- Data Structures and Algorithms
 - Becoming AWS Certified
-- [My Portfolio](https://www.jamescode.dev/)
 <hr />
 
 - 👯 I’m looking to collaborate on ...
