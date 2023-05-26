@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHoggardDev&show_icons=true&theme=highcontrast)](https://github.com/JamesHoggardDev)
+<!-- [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHoggardDev&show_icons=true&theme=highcontrast)](https://github.com/JamesHoggardDev) -->
 
 ## How to get in touch 📬
 [![Linkedin Badge](https://img.shields.io/badge/-James_Hoggard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-hoggard/)](https://www.linkedin.com/in/james-hoggard/)
