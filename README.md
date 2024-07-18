@@ -1,5 +1,5 @@
 ### Hi, I'm James &#128075;&#127998;
-software engineer, DPT, student, and educator &#128214;
+software engineer, student, and DPT &#128214;
 <hr />
 
 ### 🌱 I’m currently learning about 
