@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 ## How to get in touch 📬
 [![Linkedin Badge](https://img.shields.io/badge/-James_Hoggard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-hoggard/)](https://www.linkedin.com/in/james-hoggard/)
 
-   [![HitCount](https://hits.dwyl.com/JamesHoggardDev/https://githubcom/JamesHoggardDev.svg?style=flat-square)](http://hits.dwyl.com/JamesHoggardDev/https://githubcom/JamesHoggardDev)
 
-
+![](https://komarev.com/ghpvc/?username=JamesHoggardDev&label=PROFILE+VIEWS)
 
                 
