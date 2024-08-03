@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-James_Hoggard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-hoggard/)](https://www.linkedin.com/in/james-hoggard/)
 
 
-![](https://komarev.com/ghpvc/?username=JamesHoggardDev&style=plastic&label=Profile+views&base=100600)
+![](https://komarev.com/ghpvc/?username=JamesHoggardDev&style=plastic&label=Profile+views&base=170600)
 
                 
